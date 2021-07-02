@@ -67,7 +67,7 @@ Através deste projeto adquiri conhecimentos para a construção de layouts com 
 <h2 align="center">Demosntração PayFlow</h2>
 
   <p align="center">
-      <img alt="PayFlow" title="PayFlow" src="https://github.com/gianbrykczynski/PayFlow-Rocketseat-NLW6-Flutter/blob/master/assets/images/payflow%20gif.gif" />
+      <img alt="App-Covid19" title="App-Covid19" src="https://github.com/gianbrykczynski/PayFlow-Rocketseat-NLW6-Flutter/blob/master/assets/images/payflow%20gif.gif" />
    </p>
    
 ---
