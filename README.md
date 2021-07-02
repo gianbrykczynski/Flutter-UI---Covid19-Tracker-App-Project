@@ -98,7 +98,8 @@ Através deste projeto adquiri conhecimentos para a construção de layouts com 
 
 <h2 align="center">Autor</h2>
 
-   >Esse projeto foi desenvolvido por **Gian Cristian Brykczynski** durante o mes de maio com o auxilio de **[Flutter UI - Covid19 Tracker App - Speed Code](https://www.youtube.com/watch?v=7JRhP_L7xcs&list=PLVY9IbkulBUiKDrT5BFcMKXxtk4b0IJIX&index=41)**.<br> 
+   >Esse projeto foi desenvolvido por **Gian Cristian Brykczynski** durante o mês de maio com auxílio de **[Flutter UI - Covid19 Tracker App - Speed Code](https://www.youtube.com/watch?v=7JRhP_L7xcs&list=PLVY9IbkulBUiKDrT5BFcMKXxtk4b0IJIX&index=41)**.<br> 
+   >Clique no link azul e assista ao vídeo para saber mais. 
    
 ---
 
