@@ -82,10 +82,10 @@ Através deste projeto adquiri conhecimentos para a construção de layouts com 
 
    ```
    - Clone esse repositório:
-   $ git clone https://github.com/rocketseat-education/nlw-06-flutter
+   $ git clone https://github.com/gianbrykczynski/Flutter-UI---Covid19-Tracker-App-Project.git
 
    - Entre no diretório:
-   $ cd nlw-06-flutter
+   $ cd covid_app
 
    - Instale as dependências:
    $ flutter pub get
@@ -98,9 +98,8 @@ Através deste projeto adquiri conhecimentos para a construção de layouts com 
 
 <h2 align="center">Autor</h2>
 
-   >Esse projeto foi desenvolvido por **Gian Cristian Brykczynski** durante a #NextLevelWeekTogether da **[Rocketseat  💜🚀](https://rocketseat.com.br/)**.<br> 
-   **[Participe da nossa Comunidade! 👋](https://discordapp.com/invite/gCRAFhc)**.<br>
-
+   >Esse projeto foi desenvolvido por **Gian Cristian Brykczynski** durante o mes de maio com o auxilio de **[Flutter UI - Covid19 Tracker App - Speed Code](https://www.youtube.com/watch?v=7JRhP_L7xcs&list=PLVY9IbkulBUiKDrT5BFcMKXxtk4b0IJIX&index=41)**.<br> 
+   
 ---
 
 <h2 align="center">Agradecimento</h2>
