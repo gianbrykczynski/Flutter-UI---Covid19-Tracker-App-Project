@@ -59,7 +59,7 @@ Através deste projeto adquiri conhecimentos para a construção de layouts com 
    </p>
 
    <p align="center">
-      O Layout foi desenvolvido por <a href="https://instagram.com/tiagoluchtenberg">Tiago Luchtenberg</a>, e você pode acessá-lo no Figma:
+      O Layout foi desenvolvido por <a href="https://dribbble.com/ayushpara">Ayush Parashar</a>, e você pode acessá-lo no dribbble.com:
    </p>
 
 ---
