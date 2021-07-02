@@ -12,7 +12,7 @@
    - [Sobre](#Sobre)
    - [Layout](#Layout)
    - [Demosntração](#Demosntração-PayFlow)
-   - [Arquivos Notion](#Notion)
+   - [Status do Projeto](#Status-do-Projeto)
    - [Como Usar](#Como-Usar)
    - [Autor do Projeto](#Autor)
    - [Agradecimento](#Agradecimento)
@@ -72,13 +72,9 @@ Através deste projeto adquiri conhecimentos para a construção de layouts com 
    
 ---
 
-<h2 align="center">Notion</h2>
+<h2 align="center">Status do Projeto</h2>
 
-<p>
-Acesse através do link o material de todas as aulas para entender melhor como foi realizada a construção de toda a aplicação.
-</p>
-
-- [Trilha | Flutter](https://www.notion.so/Mission-Flutter-9d2a1e0818b64b61bc5d9a0424f5c766) 🚀
+> Projeto de estudo finalizado.
 
 ---
 
