@@ -11,7 +11,7 @@
    - [Contexto](#Contexto)
    - [Sobre](#Sobre)
    - [Layout](#Layout)
-   - [Demosntração](#Demosntração-PayFlow)
+   - [Demosntração](#Demosntração-Covid19-Tracker-App)
    - [Status do Projeto](#Status-do-Projeto)
    - [Como Usar](#Como-Usar)
    - [Autor do Projeto](#Autor)
@@ -65,7 +65,7 @@ A construção da aplicação em questão me proporcionou obter conhecimentos re
 
 ---
 
-<h2 align="center">Demosntração Covid19_Tracker-App</h2>
+<h2 align="center">Demosntração Covid19-Tracker-App</h2>
 
   <p align="center">
       <img alt="App-Covid19" title="App-Covid19" src="https://github.com/gianbrykczynski/Flutter-UI---Covid19-Tracker-App-Project/blob/master/assets/app_covid_19.gif" />
