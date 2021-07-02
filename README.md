@@ -106,5 +106,5 @@ Através deste projeto adquiri conhecimentos para a construção de layouts com 
 <h2 align="center">Agradecimento</h2>
 
 <p align="center">
-  <img alt="NLW" title="Rocketseat" src="https://1.bp.blogspot.com/-euISFVd5QxM/X679PMDKgOI/AAAAAAAAAsQ/e-iULkLb0eoJKXOhwXeZ9aPFJXDDvT_1gCLcBGAsYHQ/s16000/trilha.jpg" />
+  <img alt="sopheamen_image" title="sopheamen_image" src="https://github.com/gianbrykczynski/Flutter-UI---Covid19-Tracker-App-Project/blob/master/assets/sopheamen_image.png" />
 </p>
