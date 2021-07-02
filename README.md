@@ -55,7 +55,7 @@ Através deste projeto adquiri conhecimentos para a construção de layouts com 
 <h2 align="center">Layout</h2>
 
    <p align="center">
-      <img alt="PayFlow" title="PayFlow" src="https://pbs.twimg.com/media/E47QZ4rWUAYw_WF.jpg" />
+      <img alt="App-Tracker-Covid19" title="Covid-19" src="https://github.com/gianbrykczynski/Flutter-UI---Covid19-Tracker-App-Project/blob/master/assets/layout_app_covid.webp" />
    </p>
 
    <p align="center">
