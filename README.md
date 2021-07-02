@@ -44,7 +44,7 @@ Nesse sentido, os aplicativos apresentam-se como grande aliados neste momento de
  <p>
 O projeto tem como foco o desenvolvimento de 2 telas com layout moderno e limpo contendo  informações pertinentes e relacionadas ao COVID-19, desta maneira podemos acompanhar os casos recuperados, ativos, e perdas causadas pela COVID-19. Logo abaixo temos um gráfico para acompanhamento do aumento ou diminuição dos casos. Na tela seguinte podemos responder a um questionário que mapeia os sintomas causados pela covid 19.
 
-A construção da aplicação em questão me proporcionou obter conhecimentos referentes a construção de talas com flutter aplicando seus principais widgets, além disso outro ponto importante referente ao aprendizado com o projeto foi ter a oportunidade de conhecer como o package [charts_flutter](https://pub.dev/packages/charts_flutter) funciona para criar gráficos dentro das aplicações. 
+A construção da aplicação em questão me proporcionou obter conhecimentos referentes a construção de talas com flutter aplicando seus principais [widgets](https://flutter.dev/docs/development/ui/widgets), além disso outro ponto importante referente ao aprendizado com o projeto foi ter a oportunidade de conhecer como o package [charts_flutter](https://pub.dev/packages/charts_flutter) funciona para criar gráficos dentro das aplicações. 
 
 
 
