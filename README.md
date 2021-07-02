@@ -1,11 +1,14 @@
 <p align="center">
-  <img alt="PayFlow" src="https://github.com/gianbrykczynski/PayFlow-Rocketseat-NLW6-Flutter/blob/master/assets/images/logofull.png" width="250px">
+  <img alt="PayFlow" src="https://github.com/gianbrykczynski/Flutter-UI---Covid19-Tracker-App-Project/blob/master/assets/banner_covid_app.png" width="400px">
 </p>
+
+---
 
 <h2 align="center">Tópicos</h2>
 
    <p>
-   
+  
+   - [Contexto](#Contexto)
    - [Sobre](#Sobre)
    - [Layout](#Layout)
    - [Demosntração](#Demosntração-PayFlow)
@@ -19,19 +22,33 @@
 
 ---
 
+<h2 align="center">Contexto</h2>
+
+<div align="justify">
+   
+ <p>
+Estudos recentes com a utilização de aplicativos instalados em smartphones e tablets obtiveram resultados significativos no auxílio de cuidados da saúde de pacientes infectados nesta pandemia, correlacionando os aplicativos móveis com diversas funcionalidades desenvolvidas para auxiliar na gestão desta crise, auxiliando, significativamente, o trabalho realizado pelos profissionais da saúde.
+
+Nesse sentido, os aplicativos apresentam-se como grande aliados neste momento de tanta dificuldade para a depuração de uma enorme quantidade de informações, trazendo benefícios para a área da saúde, economia e, principalmente, para a sociedade que está vivenciando momentos de crise na saúde com o avanço do COVID-19
+
+</p>
+</div>
+
+
+---
+
 <h2 align="center">Sobre</h2>
 
 <div align="justify">
    
  <p>
-Sabemos que vivemos um momento de inúmeras transformações e que é imprescindível que tenhamos a tecnologia como nossa aliada durante nossas rotinas e atividades diárias. 
-Levando isso em consideração o pagamento e gerenciamento das nossas contas e (Boletos) é algo de suma importância para mantermos a saúde financeira em dia. Observando esse contexto o projeto PayFlow foi desenvolvido durante o evento da NLW edição de número 6, e tem como base a construção de uma aplicação focada no gerenciamento de boletos de maneira rápida e fácil. 
-Usando a Inteligência Artificial podemos ler o código de barras de boletos e inserir as informações pertinentes ao pagamento como nome, data de vencimento, valor, e o código. 
-Imediatamente  tudo isso é atualizado na página inicial do app facilitando o gerenciamento das nossas contas. 
+O projeto tem como foco o desenvolvimento de 2 telas com layout moderno e limpo contendo  informações pertinentes e relacionadas ao COVID-19, desta maneira podemos acompanhar os casos recuperados, ativos, e perdas causados pela COVID-19. Logo abaixo temos um gráfico para acompanhamento do aumento ou diminuição dos casos.
+
+Através deste projeto adquiri conhecimentos para a construção de layouts com flutter utilizando os principais widgets em conjunto com o package para construir gráficos.  
+
 
 </p>
 </div>
-
 
 ---
 
